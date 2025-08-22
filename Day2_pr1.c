@@ -10,3 +10,4 @@ int main(){
     printf("The perimeter of the rectangle is %d\n", perimeter);
     return 0;
 }
+
