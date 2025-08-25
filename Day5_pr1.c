@@ -15,3 +15,4 @@ int main()
     printf("The simple interest is %f\n", si);
     printf("The compound interest is %f\n", ci);
 }
+
