@@ -8,7 +8,7 @@ int main()
     {
         printf("%d is the largest", num1);
     }
-    else if (num2 > num3 || num2 > num1)
+    else if (num2 > num3 ||num2 > num1)
     {
         printf("%d is the largest", num2);
     }
@@ -18,3 +18,4 @@ int main()
     }
     return 0;
 }
+
