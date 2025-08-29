@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 int main()
 {
-    
     float percentage;
     printf("Enter the percentage: ");
     scanf("%f", &percentage);
@@ -36,3 +34,4 @@ int main()
     }
     return 0;
 }
+
