@@ -2,7 +2,7 @@
 #include <math.h>
 int main()
 {
-    float a, b, c, D, r1, r2;
+    float a, b, c, D, r1, r2; // r1 & r2 are taken as roots of equation
     printf("Enter the numbers a,b & c: ");
     scanf("%f %f %f", &a, &b, &c);
     D = (pow(b, 2) - 4 * a * c);
@@ -23,3 +23,4 @@ int main()
     }
     return 0;
 }
+
