@@ -5,8 +5,7 @@ int main(){
     scanf("%f %f %f", &a, &b, &c);
     if (a <= 0 || b <= 0 || c <= 0)
         printf("Sides must be positive or greater than zero");
-    //if (a + b > c && b + c > a && a + c > b)
-    //{
+        //if (a + b > c && b + c > a && a + c > b){
         //printf("It is a valid triangle.\n");
         if (a == b && b == c)
         {
@@ -26,3 +25,4 @@ int main(){
         }
         return 0;
     }
+
