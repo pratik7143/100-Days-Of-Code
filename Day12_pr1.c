@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int days;
@@ -33,3 +32,4 @@ int main()
     }
     return 0;
 }
+
