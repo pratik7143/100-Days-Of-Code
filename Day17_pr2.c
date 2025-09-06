@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int n;
@@ -22,3 +21,4 @@ int main()
         printf("The given number is not a prime number");
     return 0;
 }
+
