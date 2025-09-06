@@ -1,27 +1,17 @@
 #include <stdio.h>
 int main() {
-    int num, i;
-    int binary[64];  
+    int num, i, place = 1;
+    int binary = 0;
     printf("Enter a number: ");
     scanf("%d", &num);
-    if (num == 0) 
-    {
-        printf("Binary: 0\n");
-        return 0;
+    while (num != 0) {
+        i = num % 2;            
+        binary = binary + i * place; 
+        place = place * 10;    
+        num = num / 2;         
     }
-    i = 0;
-    while (num > 0) 
-    {
-        binary[i] = num % 2;
-        num = num / 2;
-        i++;
-    }
-    printf("Binary: ");
-    for (int j = i - 1; j >= 0; j--) 
-    {
-        printf("%d", binary[j] );
-    }
-    printf("\n");
+    printf("Binary number = %d\n", binary);
     return 0;
 }
+
 
