@@ -20,6 +20,6 @@ int main() {
         printf("Product of odd digits is %d\n", product);
     else
         printf("No odd digits found.\n");
-
     return 0;
 }
+
