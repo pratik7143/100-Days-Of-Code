@@ -1,10 +1,11 @@
 #include <stdio.h>
-int main() {
+int main(){
     int num, digit, product = 1;
     int odd = 0;  // to check if there is at least one odd digit
     printf("Enter a number: ");
     scanf("%d", &num);
-    if (num == 0) {
+    if (num == 0) 
+    {
         printf("Product of odd digits = 0\n");
         return 0;
     }
@@ -22,4 +23,5 @@ int main() {
         printf("No odd digits found.\n");
     return 0;
 }
+
 
