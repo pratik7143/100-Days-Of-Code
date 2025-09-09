@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int num, digit, product = 1;
     int odd = 0;
     printf("Enter a number: ");
@@ -24,6 +25,7 @@ int main(){
         printf("No odd digits found.\n");
     return 0;
 }
+
 
 
 
