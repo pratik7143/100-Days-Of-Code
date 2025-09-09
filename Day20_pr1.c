@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int num, digit, product = 1;
-    int odd = 0;  // to check if there is at least one odd digit
+    int odd = 0;
     printf("Enter a number: ");
     scanf("%d", &num);
     if (num == 0) 
@@ -10,12 +10,13 @@ int main(){
         return 0;
     }
     while (num > 0) {
-        digit = num % 10;   // extract last digit
-        if (digit % 2 != 0) {  // check if odd
+        digit = num % 10; 
+        if (digit % 2 != 0) 
+        {  
             product *= digit;
             odd = 1;
         }
-        num = num / 10;   // remove last digit
+        num = num / 10; 
     }
     if (odd)
         printf("Product of odd digits is %d\n", product);
@@ -23,5 +24,6 @@ int main(){
         printf("No odd digits found.\n");
     return 0;
 }
+
 
 
