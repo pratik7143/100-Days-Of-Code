@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main(){
     int n, f, l, p = 1, t, s;
     printf("Enter a number: ");
     scanf("%d", &n);
@@ -16,3 +16,4 @@ int main() {
     printf("After swapping: %d\n", s);
     return 0;
 }
+
