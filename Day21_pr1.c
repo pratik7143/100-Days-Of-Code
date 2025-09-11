@@ -12,8 +12,8 @@ int main(){
     f = t;   // first digit
     // swap
     s = l * p + (n % p) / 10 * 10 + f;
-    
     printf("After swapping: %d\n", s);
     return 0;
 }
+
 
