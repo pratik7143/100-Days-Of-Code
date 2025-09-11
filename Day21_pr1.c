@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &n);
     l = n % 10;   
     t = n;
-    while (t >= 10) {   // find first digit and place value
+    while (t >= 10){   // find first digit and place value
         t = t / 10;
         p = p * 10;
     }
@@ -15,6 +15,7 @@ int main(){
     printf("After swapping: %d\n", s);
     return 0;
 }
+
 
 
 
