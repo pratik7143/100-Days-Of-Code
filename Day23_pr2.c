@@ -20,7 +20,7 @@ Output 1:
 #include<stdio.h>
 int main(){
     //int n;                                  
-    //printf("Enter the number of rows: ");             For n number of rows
+    //printf("Enter the number of rows: ");      --->For n number of rows
     //scanf("%d",&n);
     for(int i = 1;i<=5;i++){
         for (int j = 1;j<=5;j++){
@@ -31,4 +31,5 @@ int main(){
 
     return 0;
 }
+
 
