@@ -18,7 +18,7 @@ Output 1:
 
 */
 #include<stdio.h>
-int main() {
+int main(){
     //int n;                                  
     //printf("Enter the number of rows: ");             For n number of rows
     //scanf("%d",&n);
@@ -31,3 +31,4 @@ int main() {
 
     return 0;
 }
+
