@@ -12,9 +12,6 @@ Output 1:
     ***
       **
         *
-
-Input 2:
-Output 2:
 Note: Spaces indicate indentation.
 */
 #include<stdio.h>
@@ -30,4 +27,5 @@ int main() {
     }
 
     return 0;
+
 }
