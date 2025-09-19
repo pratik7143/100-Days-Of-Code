@@ -29,6 +29,6 @@ int main(){
             zeroCount++;
     }
     printf("Positive = %d, Negative = %d, Zeroes = %d\n", posCount, negCount, zeroCount);
-
     return 0;
 }
+
