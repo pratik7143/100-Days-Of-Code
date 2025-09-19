@@ -33,6 +33,6 @@ int main(){
             oddCount++;
     }
     printf("Even = %d, Odd = %d\n", evenCount, oddCount);
-
     return 0;
 }
+
