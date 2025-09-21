@@ -10,7 +10,6 @@ Input 2:
 Output 2:
 7
 
-
 */
 #include <stdio.h>
 int main()
@@ -38,5 +37,6 @@ int main()
     printf("The digit that occurs the most is: %d\n", maxDigit);
     return 0;
 }
+
 
 
