@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int main() {
+int main(){
     int num1,num2;
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
@@ -10,3 +9,4 @@ int main() {
     printf("The numbers are %d & %d\n", num1, num2);
     return 0;
 }
+
