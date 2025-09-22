@@ -1,28 +1,26 @@
 #include <stdio.h>
-
 int main()
 {
     float num1, num2;
     char operator;
     printf("Enter two numbers = ");
-    scanf("%f %f", &num1, &num2);
+    scanf("%f %f",&num1,&num2);
     printf("Enter the operation you want to perform (+, -, *, /, %):  ");
-    scanf(" %c", &operator);
-
+    scanf(" %c",&operator);
     switch (operator)
     {
     case '+':
-        printf("%.1f + %.1f = %.1f", num1, num2, num1 + num2);
+        printf("%f + %f = %f", num1, num2, num1 + num2);
         break;
     case '-':
-        printf("%.1f - %.1f = %.1f", num1, num2, num1 - num2);
+        printf("%f - %f = %f", num1, num2, num1 - num2);
         break;
     case '*':
-        printf("%.1f * %.1f = %.1f", num1, num2, num1 * num2);
+        printf("%f * %f = %f", num1, num2, num1 * num2);
         break;
     case '/':
         if (num2 != 0)
-            printf("%.1f / %.1f = %.1f", num1, num2, num1 / num2);
+            printf("%f / %f = %f", num1, num2, num1 / num2);
         else
             printf("Error: Division by zero is not allowed.");
         break;
@@ -37,3 +35,4 @@ int main()
     }
     return 0;
 }
+
