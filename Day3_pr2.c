@@ -10,7 +10,8 @@ Output 2:
 After swap: 1 -1
 */
 #include<stdio.h>
-int main(){
+int main()
+{
     int num1, num2, replace;
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
@@ -20,6 +21,7 @@ int main(){
     printf("The numbers are %d & %d ", num1, num2);
     return 0;
 }
+
 
 
 
