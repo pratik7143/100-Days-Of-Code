@@ -9,7 +9,6 @@ Input 2:
 0
 Output 2:
 Zero
-
 Input 3:
 10
 Output 3:
@@ -37,6 +36,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
