@@ -6,7 +6,6 @@ Input 1:
 -5
 Output 1:
 Negative
-
 Input 2:
 0
 Output 2:
@@ -39,5 +38,6 @@ int main()
     }
     return 0;
 }
+
 
 
