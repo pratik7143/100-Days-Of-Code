@@ -13,7 +13,6 @@ Input 3:
 10
 Output 3:
 Positive
-
 */
     
 #include <stdio.h>
@@ -36,6 +35,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
