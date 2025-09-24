@@ -14,7 +14,6 @@ Input 3:
 Output 3:
 Positive
 */
-    
 #include <stdio.h>
 int main()
 {
@@ -35,6 +34,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
