@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int n, i, factorial = 1;
     printf("Enter a number: ");
     scanf("%d", &n);
@@ -15,4 +16,5 @@ int main(){
     }
     return 0;
 }
+
 
