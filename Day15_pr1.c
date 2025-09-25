@@ -8,7 +8,8 @@ int main()
     {
         printf("Factorial is not defined");
     } 
-    else {
+    else
+    {
         for (i = 1; i <= n; i++) {
             factorial = factorial*i;
         }
@@ -16,5 +17,6 @@ int main()
     }
     return 0;
 }
+
 
 
