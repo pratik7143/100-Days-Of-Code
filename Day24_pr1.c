@@ -7,7 +7,6 @@
 /*
 Sample Test Cases:
 Input 1:
-
 Output 1:
 *
 **
@@ -29,4 +28,5 @@ int main(){
     }
     return 0;
 }
+
 
