@@ -4,7 +4,6 @@ Q19: Write a program to classify a triangle as Equilateral, Isosceles, or Scalen
 
 
 
-
 /*
 Sample Test Cases:
 Input 1:
@@ -50,6 +49,7 @@ int main(){
         }
         return 0;
     }
+
 
 
 
