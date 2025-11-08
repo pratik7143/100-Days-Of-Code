@@ -1,7 +1,6 @@
 Q19: Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
 
 
-
 /*
 Sample Test Cases:
 Input 1:
@@ -47,6 +46,7 @@ int main(){
         }
         return 0;
     }
+
 
 
 
