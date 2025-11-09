@@ -1,5 +1,4 @@
 Q21: Write a program to display the month name and number of days using switch-case for a given month number.
-
 /*
 Sample Test Cases:
 Input 1:
@@ -58,6 +57,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
