@@ -4,7 +4,6 @@ Q21: Write a program to display the month name and number of days using switch-c
 
 
 
-
     
 /*
 Sample Test Cases:
@@ -64,6 +63,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
