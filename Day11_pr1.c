@@ -7,7 +7,6 @@ Output 1:
 February, 28 days
 
 
-
 Input 2:
 12
 Output 2:
@@ -60,6 +59,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
