@@ -16,7 +16,6 @@ Output 1:
 12345
 
 
-
 */
 #include<stdio.h>
 int main(){
@@ -33,6 +32,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
