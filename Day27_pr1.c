@@ -1,4 +1,10 @@
 #include<stdio.h>
+
+
+
+
+
+
 int main(){
     //int n;
     //printf("Enter the number of lines: ");
@@ -17,3 +23,4 @@ int main(){
     }
     return 0;
 }
+
