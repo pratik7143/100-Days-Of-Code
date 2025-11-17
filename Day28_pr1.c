@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
     int n;
     printf("Enter the value of n: ");
@@ -20,6 +19,7 @@ int main(){
     }
     return 0;
 }
+
 
 
 
