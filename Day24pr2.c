@@ -16,6 +16,12 @@ Output 1:
 12345
 */
 #include<stdio.h>
+
+
+
+
+
+
 int main(){
     //int n;                                  
     //printf("Enter the number of rows: ");             For n number of rows
@@ -30,6 +36,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
