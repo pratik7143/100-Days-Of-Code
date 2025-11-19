@@ -14,7 +14,6 @@ Output 1:
 
 
 
-
 int main()
 {
     int n, i;
@@ -53,5 +52,6 @@ int main()
     }
     return 0;
 }
+
 
 
