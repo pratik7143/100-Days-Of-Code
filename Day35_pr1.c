@@ -12,7 +12,6 @@ Output 1:
 #include <stdio.h>
 
 
-
 int main()
 {
     int n, i;
@@ -51,6 +50,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
