@@ -15,7 +15,6 @@ Output 1:
 
 
 
-
 int main()
 {
     int n, i, pos, elem;
@@ -38,5 +37,6 @@ int main()
     }
     return 0;
 }
+
 
 
