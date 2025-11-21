@@ -25,7 +25,6 @@ True
 
 
 
-
 int main()
 {
     int r, c;
@@ -59,5 +58,6 @@ int main()
     printf("True\n");
     return 0;
 }
+
 
 
