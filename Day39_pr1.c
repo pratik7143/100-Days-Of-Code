@@ -22,7 +22,6 @@ True
 
 #include <stdio.h>
 
-
 int main()
 {
     int r, c;
@@ -56,6 +55,7 @@ int main()
     printf("True\n");
     return 0;
 }
+
 
 
 
