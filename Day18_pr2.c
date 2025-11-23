@@ -3,7 +3,6 @@
 
 
 
-
 int main(){
     int a, b;
     printf("Enter two numbers: ");
@@ -22,6 +21,7 @@ int main(){
     printf("HCF is %d\n", b == 0 ? a : b);
     return 0;
 }
+
 
 
 
