@@ -2,7 +2,6 @@
 
 
 
-
 int main()
 {
     int n, sum = 0, dg;
@@ -17,6 +16,7 @@ int main()
     printf("Sum of digits is %d\n", sum);
     return 0;
 }
+
 
 
 
