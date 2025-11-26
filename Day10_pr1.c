@@ -4,8 +4,7 @@ Sample Test Cases:
 Input 1:
 3 3 3
 Output 1:
-Equilateral
-
+Equilateral
 Input 2:
 3 3 4
 Output 2:
