@@ -3,7 +3,7 @@ N.B:
 - Print the output for each element in a comma separated fashion.
 - Do not use Stack, use brute force approach (nested loop) to solve.*/
 #include <stdio.h>
-int main() {
+int main(){
     int n;
     printf("Enter size of array: ");
     scanf("%d", &n);
@@ -27,6 +27,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
