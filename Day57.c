@@ -7,7 +7,6 @@ int main() {
     int n;
     printf("Enter size of array: ");
     scanf("%d", &n);
-
     int arr[n];
     printf("Enter %d elements: ", n);
     for(int i = 0; i < n; i++) {
@@ -29,5 +28,6 @@ int main() {
     return 0;
 
 }
+
 
 
