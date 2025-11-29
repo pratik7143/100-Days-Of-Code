@@ -3,7 +3,6 @@
 #include <string.h>
 int main() {
     char str[200];
-
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
 
@@ -21,4 +20,5 @@ int main() {
     return 0;
 
 }
+
 
