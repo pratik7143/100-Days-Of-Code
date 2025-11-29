@@ -14,10 +14,10 @@ int main() {
         str[0] = str[0] - 32;
     }
     printf("Sentence case: %s", str);
-
     return 0;
 
 }
+
 
 
 
