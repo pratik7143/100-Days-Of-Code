@@ -15,8 +15,8 @@ int main() {
     }
     printf("Sentence case: %s", str);
     return 0;
-
 }
+
 
 
 
