@@ -1,7 +1,6 @@
 // Write a program to take a string input. Change it to sentence case.
 #include <stdio.h>
 #include <string.h>
-
 int main() {
     char str[200];
 
@@ -22,3 +21,4 @@ int main() {
     return 0;
 
 }
+
