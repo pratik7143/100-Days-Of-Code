@@ -8,8 +8,7 @@ Monday
 Input 2:
 5
 Output 2:
-Friday
-
+Friday
 */
 #include <stdio.h>
 int main() {
