@@ -13,7 +13,7 @@ Friday
 #include <stdio.h>
 int main() {
     int choice ;
-    printf("Enter a number from the range 1 to 7: ");
+   printf("Enter a number from the range 1 to 7: ");
     scanf("%d", &choice);
     switch(choice)
 {
