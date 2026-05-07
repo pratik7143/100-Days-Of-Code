@@ -1,4 +1,4 @@
-Q20: Write a program to display the day of the week based on a number (1–7) using switch-case.
+iQ20: Write a program to display the day of the week based on a number (1–7) using switch-case.
 /*
 SampleTest Cases:
 Input 1:
@@ -38,7 +38,7 @@ int main() {
             printf("Sunday\n");
             break;
         default:
-            printf("Invalid input! Please enter a number between 1 and 7\n");
+            printf("Invalid input!Please enter a number between 1 and 7\n");
     }
     return 0;
 }
