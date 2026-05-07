@@ -4,8 +4,7 @@ Sample Test Cases:
 Input 1:
 1
 Output 1:
-Monday
-
+Monday
 Input 2:
 5
 Output 2:
