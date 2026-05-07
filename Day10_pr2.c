@@ -5,7 +5,7 @@ Input 1:
 1
 Output 1
 Monday
-Input 2:
+Input 2
 5
 Output 2:
 Friday
