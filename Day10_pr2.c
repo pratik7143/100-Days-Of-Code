@@ -15,8 +15,7 @@ int main() {
     int choice ;
    printf("Enter a number from the range 1 to 7: ");
     scanf("%d", &choice);
-    switch(choice)
-{
+    switch(choice){
         case 1: 
             printf("Monday\n");
             break;
