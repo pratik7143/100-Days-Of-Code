@@ -10,7 +10,7 @@ Input 2:
 Output 2:
 December,31 days
 */
-#include <stdio.h>
+#include<stdio.h>
 int main() 
    {
     int month;
