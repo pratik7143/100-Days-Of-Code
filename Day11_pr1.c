@@ -8,7 +8,7 @@ February, 28 days
 Input 2:
 12
 Output 2:
-December, 31 days
+December,31 days
 */
 #include <stdio.h>
 int main() 
