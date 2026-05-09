@@ -25,7 +25,7 @@ int main()
             printf("February, 28 days\n");
             break;
         case 3:
-            printf("March, 31 days\n");
+            printf("March, 31 days\n")
             break;
         case 4:
             printf("April, 30 days\n");
