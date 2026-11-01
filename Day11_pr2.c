@@ -9,7 +9,6 @@ Input 2:
 1000 800
 Output 2:
 Loss 20%
-
 Input 3:
 1000 1000
 Output 3:
