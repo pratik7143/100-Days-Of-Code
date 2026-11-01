@@ -5,7 +5,6 @@ Input 1:
 1000 1200
 Output 1:
 Profit 20%
-
 Input 2:
 1000 800
 Output 2:
