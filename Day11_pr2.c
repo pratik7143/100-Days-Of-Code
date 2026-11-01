@@ -13,7 +13,6 @@ Input 3:
 1000 1000
 Output 3:
 No Profit No Loss
-
 */
 #include <stdio.h>
 int main()
