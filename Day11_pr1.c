@@ -12,7 +12,6 @@ December,31 days
 */
 #include<stdio.h>
 int main() 
-    
 {
     int month;
     printf("Enter month number from 1 to 12: ");
