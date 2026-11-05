@@ -21,7 +21,6 @@ int binarySearch(int arr[], int n, int key)
     while (low <= high)
     {
         int mid = low + (high - low) / 2;
-
         if (arr[mid] == key)
             return mid; // Element found, return index
         else if (arr[mid] < key)
