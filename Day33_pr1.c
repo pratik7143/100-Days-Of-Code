@@ -7,7 +7,6 @@ Input 1:
 7
 Output 1:
 Found at index 3
-
 Input 2:
 5
 1 3 5 7 9
