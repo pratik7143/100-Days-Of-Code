@@ -1,5 +1,4 @@
 // Q65: Search in a sorted array using binary search.
-
 /*
 Sample Test Cases:
 Input 1:
