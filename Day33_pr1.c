@@ -22,7 +22,7 @@ int binarySearch(int arr[], int n, int key)
     {
         int mid = low + (high - low) / 2;
         if (arr[mid] == key)
-            return mid; // Element found, return index
+            return mid; 
         else if (arr[mid] < key)
             low = mid + 1;
         else
