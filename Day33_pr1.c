@@ -13,7 +13,6 @@ Input 2:
 6
 Output 2:
 -1
-
 */
 #include <stdio.h>
 int binarySearch(int arr[], int n, int key)
